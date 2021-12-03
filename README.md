@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Solution URL](https://github.com/davidelng/8-article-preview-component)
+- [Live URL](https://davidelng.github.io/8-article-preview-component/)
 
 ## My process
 
@@ -61,4 +61,4 @@ Refactor the code
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/davidelng)
+- Frontend Mentor - [@davidelng](https://www.frontendmentor.io/profile/davidelng)
